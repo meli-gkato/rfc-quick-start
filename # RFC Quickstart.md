@@ -62,7 +62,7 @@ IAM OIDC Identity Providers are entities in IAM that describe an external identi
 @mguelar 
 @leacevedo 
 @meli-diteixeira 
-@meli-gkato
-@arthur-meli
+@meli-gkato 
+@arthur-meli 
 
 
